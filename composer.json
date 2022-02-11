@@ -1,0 +1,21 @@
+{
+    "name": "spryker-feature/marketplace-merchant-order-threshold",
+    "description": "Marketplace Merchant Order Threshold [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.4",
+        "spryker/merchant-sales-order-threshold-gui": "^1.0.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/marketplace-order-management": "Recommended feature dependency.",
+        "spryker-feature/merchant-order-threshold": "Recommended feature dependency."
+    }
+}
