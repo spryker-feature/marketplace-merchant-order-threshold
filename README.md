@@ -1,6 +1,6 @@
 # Spryker Feature: Marketplace Merchant Order Threshold
 
-
+Adds the threshold expenses section on the merchant sales oder GUI
 
 ## Installation
 
