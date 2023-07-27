@@ -2,6 +2,8 @@
 
 Adds the threshold expenses section on the merchant sales oder GUI
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/cart-and-checkout/202307.0/base-shop/checkout-feature-overview/order-thresholds-overview.html#merchant-order-thresholds)
+
 ## Installation
 
 ```
