@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.1",
         "spryker/merchant-sales-order-threshold-gui": "^1.0.0"
     },
     "extra": {
